@@ -1,5 +1,5 @@
 {
-    "name": "ppi/component-installer",
+    "name": "ppi/composer-installer",
     "description": "Handling installations of PPI modules",
     "type": "composer-installer",
     "license": "MIT",
